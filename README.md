@@ -8,7 +8,7 @@ step 3:- Start Xampp server and start apache and mysql
 
 step 4:- open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name (database) name should be same otherwise it so error
 
-step 5:- inside the project folder a file is a file called database.sql import this in phpmyadmin inside into the net_banking database
+step 5:- inside the project folder a file is a file called database.sql import this in phpmyadmin inside into the database
 
 step 6:- check your project http://localhost/bookstore
 
